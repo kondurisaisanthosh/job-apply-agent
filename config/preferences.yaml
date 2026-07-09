@@ -1,0 +1,33 @@
+target_titles:
+  - Software Engineer
+  - Software Developer
+  - Software Development Engineer
+  - Backend Engineer
+  - Backend Developer
+  - Java Developer
+  - Full Stack Developer
+  - Full Stack Engineer
+  - Platform Engineer
+
+required_keywords:
+  - Java
+  - Spring
+  - Spring Boot
+  - Microservices
+  - REST
+  - API
+  - AWS
+  - SQL
+  - Docker
+  - Kubernetes
+  - Distributed Systems
+  - Backend
+
+locations:
+  - Remote
+  - Austin
+  - Seattle
+  - Dallas
+  - Redmond
+
+min_score: 20

@@ -1,0 +1,6 @@
+companies:
+  - name: Microsoft
+    careers_url: "https://jobs.careers.microsoft.com/global/en/search"
+
+  - name: Databricks
+    careers_url: "https://www.databricks.com/company/careers/open-positions"
